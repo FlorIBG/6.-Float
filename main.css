@@ -1,0 +1,17 @@
+.caja2{
+	background-color: black;
+	padding: 10px; 
+	margin: 10px;
+}
+.floating{
+	float:left;
+	width:25%; 
+	height:100px;
+}
+.clearfix{
+	overflow:auto;
+	zoom: 1;
+}
+div{
+	padding: 1px;
+}
